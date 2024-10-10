@@ -547,6 +547,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 45c40dd170b925e4aa4066e2d079caa2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  testimuuttuja: 1
+  kokonaislukumuuttuja: 0
+  desimaalilukumuuttuja: 0
+  merkkijonomuuttuja: 
 --- !u!54 &1727414750
 Rigidbody:
   m_ObjectHideFlags: 0
